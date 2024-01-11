@@ -1,7 +1,7 @@
 <div class="wrapper flex-grow-1"></div>
 <footer class="container my-md-5 pt-md-5 text-center mt-auto footer" style="border-top: #ff8e00 3px solid">
     <p class="mb-1">All Rights Reserved &copy; 2022 Helios Library</p>
-    <p class="mb-1">Created by KC Marie Arce, Antonio Caballes, Diego Cardoso de Moura</p>
+    <p class="mb-1">Created by KC Marie Arce, Antonio Caballes, Lucas</p>
 </footer>
 <script>
 $(document).ready(function() {
