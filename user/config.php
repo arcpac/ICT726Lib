@@ -18,7 +18,7 @@
 $server_name = 'localhost';
 $s_username = 'root';
 $s_password = '';
-$database_name = 'library-guard';
+$database_name = 'library';
 
 $connection = mysqli_connect($server_name, $s_username, $s_password, $database_name);
 return $connection;

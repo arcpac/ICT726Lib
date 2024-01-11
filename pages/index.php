@@ -3,7 +3,7 @@ session_start();
 $server_name = 'localhost';
 $username_server = 'root';
 $password_server = '';
-$database_name = 'library-guard';
+$database_name = 'library';
 
 $connection = mysqli_connect($server_name, $username_server, $password_server, $database_name);
 
