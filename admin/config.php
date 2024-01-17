@@ -13,7 +13,7 @@
 // {
 // exit("Error: " . $e->getMessage());
 // }
-$server_name = 'libruadmin01!';
+$server_name = 'librudb01.database.windows.net';
 $username_server = 'Test123!.';
 $password_server = 'Test123!.';
 $database_name = 'library';
