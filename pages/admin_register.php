@@ -1,8 +1,8 @@
 <?php
 session_start();
-$server_name = 'localhost';
-$username_server = 'root';
-$password_server = '';
+$server_name = 'libruadmin01!';
+$username_server = 'Test123!.';
+$password_server = 'Test123!.';
 $database_name = 'library';
 
 $connection = mysqli_connect($server_name, $username_server, $password_server, $database_name);

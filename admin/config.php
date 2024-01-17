@@ -13,11 +13,10 @@
 // {
 // exit("Error: " . $e->getMessage());
 // }
-
-$server_name = 'localhost';
-$s_username = 'root';
-$s_password = '';
+$server_name = 'libruadmin01!';
+$username_server = 'Test123!.';
+$password_server = 'Test123!.';
 $database_name = 'library';
 
-$connection = mysqli_connect($server_name, $s_username, $s_password, $database_name);
+$connection = mysqli_connect($server_name, $username_server, $password_server, $database_name);
 return $connection;
